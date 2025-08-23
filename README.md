@@ -24,4 +24,8 @@ Preview
     <td><img src="output1.png" alt="Output 1" width="400"/></td>
     <td><img src="output2.png" alt="Output 2" width="400"/></td>
   </tr>
+  <tr>
+    <td align="center">Main page</td>
+    <td align="center">Join Form</td>
+  </tr>
 </table>
