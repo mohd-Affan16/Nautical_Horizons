@@ -21,11 +21,7 @@ Preview
 
 <table>
   <tr>
-    <td><img src="output1.png"  width="400"/></td>
-    <td><img src="output2.png"  width="400"/></td>
-  </tr>
-  <tr>
-    <td align="center">Output 1</td>
-    <td align="center">Output 2</td>
+    <td><img src="output1.png" alt="Output 1" width="400"/></td>
+    <td><img src="output2.png" alt="Output 2" width="400"/></td>
   </tr>
 </table>
