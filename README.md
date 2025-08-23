@@ -20,4 +20,4 @@ How to Run
  Preview
 
  
-![Nautical Horizons Page](ship.jpeg)
+![Output 1](output1.png) ![Output 2](output2.png)
