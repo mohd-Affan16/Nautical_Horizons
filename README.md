@@ -18,4 +18,6 @@ How to Run
 2. Open index.html in your browser
 
  Preview
+
+ 
 ![Nautical Horizons Page](ship.jpeg)
