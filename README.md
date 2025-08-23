@@ -17,7 +17,15 @@ How to Run
 1. Clone this repository
 2. Open index.html in your browser
 
- Preview
+Preview
 
- 
-![Output 1](output1.png) ![Output 2](output2.png)
+<table>
+  <tr>
+    <td><img src="output1.png" alt="Output 1" width="400"/></td>
+    <td><img src="output2.png" alt="Output 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center">Output 1</td>
+    <td align="center">Output 2</td>
+  </tr>
+</table>
